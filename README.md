@@ -15,5 +15,9 @@ Once they have the color ready they can press a pixel on the board. Once the use
 
 Another feature was the advanced checkbox. This checkbox once clicked on would show that it was checked. While it shows that it is checked, once the user selects a pixel on the board a pop up will show. The pop up will provide two options, one to save the picture allow the user to edit how many pixels they can edit at a time and the other to open an previously made picture. If they selected a previously used picture then from the pixel they originally selected, all the pixels from that point would be edited to load the old picture.
 
-Lastly, once the user is finished drawing their picture, they have the ability to save it an a location they want with the save button.
+![pixelEditorDemo](https://user-images.githubusercontent.com/37818200/83342269-02521180-a2b3-11ea-983d-225404be0ca3.png)
+![pixelEditorDemo](https://user-images.githubusercontent.com/37818200/83342388-91135e00-a2b4-11ea-90f9-558dc90fc2c6.png)
 
+Lastly, once the user is finished drawing their picture, they have the ability to name it and save the picture in a bitmap format to a location they want with the save button.
+
+![pixelEditorDemo](https://user-images.githubusercontent.com/37818200/83342412-cfa91880-a2b4-11ea-8705-990ae20e5386.png)
