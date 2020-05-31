@@ -2,7 +2,7 @@
 
 This project was to make a pixel editor and build a user interface with different features. The project is to simulate a type of paint application in which the user would be able to customize how big the picture will be from the prompt at the beginning.
 
-![pixelEditorDemo](https://user-images.githubusercontent.com/37818200/83342076-7343fa00-a2b0-11ea-8736-7c6385cc53c8.png)
+![pixelEditorDemo](https://user-images.githubusercontent.com/37818200/83342234-822bac00-a2b2-11ea-9c33-9b93718695b0.png)
 ![pixelEditorDemo](https://user-images.githubusercontent.com/37818200/83342112-d170dd00-a2b0-11ea-87b9-da358e387036.png)
 
 The user then uses sliders of different colors to select different color intensities. As the user moves the sliders, there is box that would show the current color they would be using. 
